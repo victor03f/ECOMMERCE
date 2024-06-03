@@ -1,0 +1,67 @@
+.section1 img {
+    width: 175px;
+    height: 175px;
+}
+
+.section2 img {
+    width: 175px;
+    height: 175px;
+}
+
+.nav button {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    margin-bottom: 34px;
+    justify-content: center;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+header h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 45px;
+    font-style: italic;
+}
+
+header p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.section1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    margin-bottom: 90px;
+}
+
+.section2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+
+}
